@@ -20,7 +20,7 @@ TSOD stands at the forefront of viral entity research and containment. Delve int
 
 To initiate your descent into darkness with TSOD, download the following tools:
 
-- [TSOD p1 v1.0](https://example.com/tsod_simulator.zip)
+- [TSOD p1 v1.0]([https://example.com/tsod_simulator.zip](https://github.com/R-Samir-Bhuiyan-A/tsod/releases/download/exe/TSDO_P1_V1.exe))
 - [TSOD p2 v1.0](https://example.com/tsod_samples.zip)
 
 For installation assistance or technical support, contact us at [shamirbhuiyan2@gmail.com](mailto:shamirbhuiyan2@gmail.com).
